@@ -2,6 +2,7 @@
 A 3D music visualizer that reacts to music and live audio
 
 *Import Peasy Cam in Processing for 3D view*
+
 *Also import Minim and Minim analysis*
 
 I have created a 3D music visualizer using Lorenz and Rössler attractors, using differential equations that define each respective system. The two attractors are drawn continuously, and they react to the music being played by changing their color based on the amplitudes of different frequency bands in the audio, thereby creating stunning visual patterns. Since the sketch is in 3D, I also made a network of jittering, twinkling stars that are suspended in space around the attractors. The ‘twinkling’ of the stars is controlled by greyscale color that is also controlled by the audio much in the same away as the attractors.
