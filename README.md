@@ -1,9 +1,14 @@
 # Lorenz-3D-Music-Visualizer
 A 3D music visualizer that reacts to music and live audio
+
 *Download and install Peasy Cam in Processing for 3D view*
+
 I have created a 3D music visualizer using Lorenz and Rössler attractors, using differential equations that define each respective system. The two attractors are drawn continuously, and they react to the music being played by changing their color based on the amplitudes of different frequency bands in the audio, thereby creating stunning visual patterns. Since the sketch is in 3D, I also made a network of jittering, twinkling stars that are suspended in space around the attractors. The ‘twinkling’ of the stars is controlled by greyscale color that is also controlled by the audio much in the same away as the attractors.
+
 The project is highly interactive and user input defines much of what is seen. User input can not only define what particular attractor is going to be drawn at a given point, but it will also define what audio input will be used, among other things. The audio options are Money by Pink Floyd and Gravity by John Mayer, both of which can be played and paused at the will at the user. There’s a third option of using the microphone for any live audio; in this case the attractor and the stars react to the sounds of the environment! Properties like rotation speed can be played around with, and the user has the option to move around the 3D space using mouse clicks and drags.
+
 The list of interactions that a user can do (also included in the code comments) are as follows:
+
 Press 'l' to start creating a Lorenz attractor
 Press 'r' to start creating a Rössler attractor
 (note: creating a Rössler attractor while a lorenz is already drawing would just switch between attractors, and vice versa)
