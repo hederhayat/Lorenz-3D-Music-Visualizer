@@ -10,19 +10,31 @@ The project is highly interactive and user input defines much of what is seen. U
 The list of interactions that a user can do (also included in the code comments) are as follows:
 
 Press 'l' to start creating a Lorenz attractor
+
 Press 'r' to start creating a Rössler attractor
 (note: creating a Rössler attractor while a lorenz is already drawing would just switch between attractors, and vice versa)
+
 Click and drag the mouse to move the camera around
+
 Scroll up and down to zoom in and out
+
 Press 'm' to start playing Money by Pink Floyd
   
 Press 'g' to start playing Gravity by Pink Floyd
-(note: only one song can be played at one time! Playing Gravity while Money is being played will pause Money and start playing Gravity, and vice versa. Pressing 'm' again would simply pause Money) Press 's' to toggle the stars on. Pressing 's' again would toggle them off.
+(note: only one song can be played at one time! Playing Gravity while Money is being played will pause Money and start playing Gravity, and vice versa. Pressing 'm' again would simply pause Money)
+
+Press 's' to toggle the stars on. Pressing 's' again would toggle them off.
+
 Press 'c' to make a continuous attractor
+
 Press 'p' to make it in point form again (the sketch always starts in point form)
+
 Press 'f' for the camera rotation to go faster (making good visuals) and press 'F' to make it go
 even faster. Pressing 'n' would make it come back to normal speed
+
 Double click anywhere on the sketch for the attractor to go to the original orientation with which
 it started
+
 Cmd + click and drag to move the attractor around.
-(Note: The differential equations used for the Lorenz system as well as the Rössler system are taken from Wikipedia. The code to draw the attractors is inspired from Dan Shiffman’s YouTube tutorials on The Coding Train).
+
+*(Note: The differential equations used for the Lorenz system as well as the Rössler system are taken from Wikipedia. The code to draw the attractors is inspired from Dan Shiffman’s YouTube tutorials on The Coding Train).*
