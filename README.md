@@ -43,3 +43,5 @@ it started
 Cmd + click and drag to move the attractor around.
 
 *(Note: The differential equations used for the Lorenz system as well as the Rössler system are taken from Wikipedia. The code to draw the attractors is inspired from Dan Shiffman’s YouTube tutorials on The Coding Train).*
+
+Watch the program in action: https://www.youtube.com/watch?v=K75450eiYZY&t=24s
