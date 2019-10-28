@@ -18,9 +18,10 @@ Press 'r' to start creating a Rossler attractor
 Click and drag the mouse to move the camera around
 Scroll up and down to zoom in and out
 Press 'm' to start playing Money by Pink Floyd
-Press 'g' to start playing Gravity by Pink Floyd
+Press 'g' to start playing Gravity by John Mayer
 (note: only one song can be played at one time! Playing Gravity while Money is being played will
  pause Money and start playing Gravity, and vice versa. Pressing 'm' again would simply pause Money)
+Press 'i' to turn microphone on (this would turn off music) 
 Press 's' to toggle the stars on. Pressing 's' again would toggle them off.
 Press 'c' to make a continuous attractor
 Press 'p' to make it in point form again (it always starts in point form)
